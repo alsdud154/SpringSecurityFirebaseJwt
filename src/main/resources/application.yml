@@ -1,0 +1,20 @@
+spring:
+  profiles:
+    active: window_local
+
+
+---
+spring:
+  profiles: window_local
+  firebase:
+    account-file-url:
+      user: C:/Users/Min/Downloads/service-account-file.json
+      admin: C:/Users/Min/Downloads/service-account-file.json
+
+---
+spring:
+  profiles: mac_local
+  firebase:
+    account-file-url:
+      user: /Users/blocko/Downloads/service-account-file.json
+      admin: /Users/blocko/Downloads/service-account-file.json
