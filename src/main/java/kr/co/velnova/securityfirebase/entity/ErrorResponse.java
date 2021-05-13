@@ -1,4 +1,4 @@
-package kr.co.velnova.securityjwt.entity;
+package kr.co.velnova.securityfirebase.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

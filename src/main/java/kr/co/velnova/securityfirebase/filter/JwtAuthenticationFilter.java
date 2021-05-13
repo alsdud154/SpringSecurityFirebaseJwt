@@ -1,12 +1,12 @@
-package kr.co.velnova.securityjwt.filter;
+package kr.co.velnova.securityfirebase.filter;
 
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthException;
 import com.google.firebase.auth.FirebaseToken;
-import kr.co.velnova.securityjwt.entity.ErrorCode;
-import kr.co.velnova.securityjwt.entity.ErrorResponse;
-import kr.co.velnova.securityjwt.util.CommonUtil;
+import kr.co.velnova.securityfirebase.entity.ErrorCode;
+import kr.co.velnova.securityfirebase.entity.ErrorResponse;
+import kr.co.velnova.securityfirebase.util.CommonUtil;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.GrantedAuthority;

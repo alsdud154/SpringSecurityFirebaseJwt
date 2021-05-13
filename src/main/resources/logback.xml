@@ -6,7 +6,7 @@
         </encoder>
     </appender>
 
-    <logger name="kr.co.velnova.securityjwt" level="DEBUG" appender-ref="console" />
+    <logger name="kr.co.velnova.securityfirebase" level="DEBUG" appender-ref="console" />
     <logger name="jdbc" level="OFF"/>
     <logger name="jdbc.sqlonly" level="DEBUG"/>
     <logger name="jdbc.sqltiming" level="OFF"/>

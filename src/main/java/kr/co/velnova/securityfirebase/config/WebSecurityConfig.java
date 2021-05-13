@@ -1,6 +1,6 @@
-package kr.co.velnova.securityjwt.config;
+package kr.co.velnova.securityfirebase.config;
 
-import kr.co.velnova.securityjwt.filter.JwtAuthenticationFilter;
+import kr.co.velnova.securityfirebase.filter.JwtAuthenticationFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;

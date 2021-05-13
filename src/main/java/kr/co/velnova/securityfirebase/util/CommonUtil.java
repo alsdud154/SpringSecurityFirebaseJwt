@@ -1,4 +1,4 @@
-package kr.co.velnova.securityjwt.util;
+package kr.co.velnova.securityfirebase.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

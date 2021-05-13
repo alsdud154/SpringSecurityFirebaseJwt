@@ -1,4 +1,4 @@
-package kr.co.velnova.securityjwt.controller;
+package kr.co.velnova.securityfirebase.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package kr.co.velnova.securityjwt.config;
+package kr.co.velnova.securityfirebase.config;
 
 import com.google.auth.oauth2.GoogleCredentials;
 import com.google.firebase.FirebaseApp;

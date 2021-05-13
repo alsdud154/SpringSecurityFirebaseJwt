@@ -1,4 +1,4 @@
-package kr.co.velnova.securityjwt.entity;
+package kr.co.velnova.securityfirebase.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Getter;
